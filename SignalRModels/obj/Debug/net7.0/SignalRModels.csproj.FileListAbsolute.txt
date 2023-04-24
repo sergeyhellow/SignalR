@@ -1,0 +1,15 @@
+C:\Users\User\Documents\C# projekts2\OneStudy\SignalRModels\obj\Debug\net7.0\SignalRModels.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C# projekts2\OneStudy\SignalRModels\obj\Debug\net7.0\SignalRModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\C# projekts2\OneStudy\SignalRModels\obj\Debug\net7.0\SignalRModels.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C# projekts2\OneStudy\SignalRModels\obj\Debug\net7.0\SignalRModels.AssemblyInfo.cs
+C:\Users\User\Documents\C# projekts2\OneStudy\SignalRModels\obj\Debug\net7.0\SignalRModels.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C# projekts2\OneStudy\SignalRModels\bin\Debug\net7.0\SignalRModels.exe
+C:\Users\User\Documents\C# projekts2\OneStudy\SignalRModels\bin\Debug\net7.0\SignalRModels.deps.json
+C:\Users\User\Documents\C# projekts2\OneStudy\SignalRModels\bin\Debug\net7.0\SignalRModels.runtimeconfig.json
+C:\Users\User\Documents\C# projekts2\OneStudy\SignalRModels\bin\Debug\net7.0\SignalRModels.dll
+C:\Users\User\Documents\C# projekts2\OneStudy\SignalRModels\bin\Debug\net7.0\SignalRModels.pdb
+C:\Users\User\Documents\C# projekts2\OneStudy\SignalRModels\obj\Debug\net7.0\SignalRModels.dll
+C:\Users\User\Documents\C# projekts2\OneStudy\SignalRModels\obj\Debug\net7.0\refint\SignalRModels.dll
+C:\Users\User\Documents\C# projekts2\OneStudy\SignalRModels\obj\Debug\net7.0\SignalRModels.pdb
+C:\Users\User\Documents\C# projekts2\OneStudy\SignalRModels\obj\Debug\net7.0\SignalRModels.genruntimeconfig.cache
+C:\Users\User\Documents\C# projekts2\OneStudy\SignalRModels\obj\Debug\net7.0\ref\SignalRModels.dll
